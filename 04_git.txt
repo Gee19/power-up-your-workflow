@@ -1,0 +1,14 @@
+centre
+
+% Git
+
+* An important part of our ~everyday~ workflow.
+
+* Save yourself time, especially when doing repetitive tasks.
+
+* Aliases
+    ~git status~
+    ~git checkout~
+    ~git branch~
+    ~git stash~
+    ~git log~

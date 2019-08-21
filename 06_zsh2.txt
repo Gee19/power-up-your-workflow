@@ -1,0 +1,21 @@
+centre
+
+%         Zsh
+
+* Shared history across sessions
+    ~SAVEHIST=100000~
+    ~HISTFILE=\~/.zsh_history
+    ~setopt share_history~
+    ~setopt hist_expire_dups_first~
+    ~setopt hist_find_no_dups~
+    ~export HISTSIZE=100000~
+    ~export HISTFILESIZE=100000~
+
+* Keybindings
+    ~bindkey -e~
+    ~bindkey "\e\e[C" forward-word~
+    ~bindkey "\e\e[D" backward-word~
+    ~bindkey '^[[A' history-substring-search-up~
+    ~bindkey '^[[B' history-substring-search-down~
+
+* Functions (eg. git stash)

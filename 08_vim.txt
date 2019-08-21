@@ -1,0 +1,24 @@
+centre
+
+% VIm
+
+* View/edit files directly from your shell.
+
+* Why?
+    Because we can always be more efficient.
+    It's everywhere, ask anyone in devops ~;)~
+
+* Tried on and off for years but never got the hang
+  of it.
+
+* "There must be a better way"
+    Navigating feels clunky with ~hjkl~?
+      So find better, more efficient ways to navigate.
+        ~w / $ ^ f t , ; gg G ctrl+U ctrl+D~
+
+    Abusing insert mode?
+      Find better ways to edit, delete, copy or insert
+      exactly what you need. ~ct dt y p d$ c$~
+
+* Plugins! Let plugins help you, no matter your
+  choice of editor.

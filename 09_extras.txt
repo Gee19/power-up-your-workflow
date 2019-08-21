@@ -1,0 +1,15 @@
+centre
+
+% Extras
+
+* coc.nvim
+    intellisense engine for vim8 & neovim
+    supports all the vscode language servers
+    go-to definition
+    preview signature
+
+* exa
+    replacement for ls written in Rust
+
+* bat
+    cat clone with syntax highlighting

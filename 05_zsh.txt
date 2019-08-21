@@ -1,0 +1,16 @@
+centre
+
+%         Zsh
+
+* Extended, more interactive version of bash.
+
+* Backwards compatible.
+
+* Theming
+
+* Plugins
+    ~zsh-syntax-highlighting~
+    ~zsh-history-substring-search~
+
+* Ships as the default shell in macOS Catalina!
+

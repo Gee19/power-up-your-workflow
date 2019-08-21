@@ -1,0 +1,13 @@
+centre
+
+% Editor
+
+* There is no best answer for what editor to use.
+
+* Find something that feels comfortable and has the power you need.
+
+* Get comfortable. Learn your way around it, customize it to your liking.
+
+* Research how it can help you.
+
+* ~Learn the shortcuts!~

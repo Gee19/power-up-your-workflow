@@ -1,0 +1,19 @@
+centre
+
+% Shortcuts
+
+* Seriously, learn em. Even the easy ones.
+
+* ~Save yourself time, especially when doing repetitive tasks.~
+
+* This applies to everything!
+
+    Slack: ~cmd+K~
+    Browser: ~cmd+T~ | ~cmd+L~ | ~cmd+opt+I~
+
+* Editor (eg. VSCode)
+
+    global search: ~cmd+shift+F~
+    switch tabs: ~cmd+opt+arrows~
+    open file: ~cmd+P~
+    go-to definition: ~cmd+click~

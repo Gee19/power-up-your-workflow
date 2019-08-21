@@ -1,0 +1,20 @@
+centre
+
+% Alternative Tools
+
+* ripgrep
+    replacement for grep written in Rust
+    faster than grep
+    better defaults (ignores files in .gitignore)
+    colors & much more
+
+* fzf
+    fuzzy find file ~ctrl+T~
+    or pipe output to editor of your choice
+      ~bindkey -s '^o' 'vim $(fzf)\n'~
+    fuzzy cd into directories ~opt+C~
+    search history ~ctrl+R~
+
+* vim plugin!
+    fuzzy find files
+    fuzzy search files (you can even use ripgrep..)

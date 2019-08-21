@@ -1,0 +1,16 @@
+centre
+
+% iTerm2 (macOS)
+
+* Split windows
+
+* Search highlighting
+
+* Mouseless copy
+
+* Shortcuts
+    v-split: ~cmd+D~
+    h-split: ~cmd+shift+D~
+    new tab: ~cmd+T~
+    switch tab: ~cmd+arrow~
+    switch pane: ~cmd+]~
